@@ -1,0 +1,33 @@
+----------------------------------------
+               FRESH MART               
+----------------------------------------
+        Fresh Mart, Opp To Bhor,        
+        Industries, Near Western        
+      Express Highway, Kandivli(e)      
+       Mumbai-400101, Maharashtra       
+             Ph-02256990091             
+        GSTIN - 24AACCA8432H1ZW         
+     CIN NO - L21091KA2019OPC141331     
+________________________________________
+               Invoice                  
+Bill No : 00000003  Bill Dt : 19/07/2023
+________________________________________
+----------------------------------------
+HSN  Particuars       Qty  N/Rate  Value
+----------------------------------------
+2045 Parle-G           1    8.47    8.47
+3906 Jaggery           4   76.27  305.08
+3926 Tape              2  296.61  593.22
+----------------------------------------
+Items : 3  Qty :  7  SubTotal :   906.77
+________________________________________
+<----------GST BREAKUP Details--------->
+Taxable Amt  CGST(9%)  SGST(9%)    Total
+ 906.77       81.62     81.62    1070.00
+----------------------------------------
+                Cash :   1500.00/-          
+Balance Paid In Cash :   430/-          
+----------------------------------------
+  Thank you for shopping at our store!  
+        Love to see you again :)        
+________________________________________
