@@ -24,10 +24,10 @@ To run the BillDesk software, follow these steps:
 ## Usage 📝
 
 1. When the program starts, a menu will be displayed with the following options:
-   - 0️⃣: Print bill
-   - 1️⃣: Search bill
-   - 2️⃣: Edit items
-   - 3️⃣: Exit
+   - 0: Print bill
+   - 1: Search bill
+   - 2: Edit items
+   - 3: Exit
 
 2. Select an option by entering the corresponding number.
 
